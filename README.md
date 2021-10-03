@@ -7,7 +7,8 @@ Transforms excel sheet with desired text file names & content into text files. W
 1. excel file with columns for template names & columns for template contents (@Eddie Ciafardini anything similar to the file you gave me would work)
 2. quick mapping of column indexes & any alterations you want to the text (e.g remove prefix, capitalize, etc). See below for example.
 
-```{<Column Description>: {"file_name": (<index>, <callable of text alterations>),
+```
+{<Column Description>: {"file_name": (<index>, <callable of text alterations>),
                            "content": (<index>,, <callable of text alterations>}}
 
 EXAMPLE: 
