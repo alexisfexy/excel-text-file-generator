@@ -4,7 +4,7 @@ Transforms excel sheet with desired text file names & content into text files. W
 
 
 ## Overview of Requirements:
-1. excel file with columns for template names & columns for template contents (@Eddie Ciafardini anything similar to the file you gave me would work)
+1. excel file with columns for template names & columns for template contents
 2. quick mapping of column indexes & any alterations you want to the text (e.g remove prefix, capitalize, etc). See below for example.
 
 ```
